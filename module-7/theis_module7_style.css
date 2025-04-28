@@ -1,0 +1,37 @@
+/*
+Rachel Theis
+Module 7 Assignment
+CSD 420
+4.27.25
+ */
+ 
+.circle {
+    -fx-fill: white;
+    -fx-stroke: black;
+    -fx-stroke-width: 2;
+}
+
+.white_circle {
+    -fx-fill: white;
+    -fx-stroke: black;
+}
+
+#red_circle {
+    -fx-fill: red;
+    -fx-stroke: red;
+}
+
+#green_circle {
+    -fx-fill: green;
+    -fx-stroke: green;
+}
+
+.circleborder {
+    -fx-stroke-width: 5;
+    -fx-stroke-dash-array: 12 2 4 2;
+}
+
+.border {
+    -fx-border-color: black;
+    -fx-border-width: 5;
+}
